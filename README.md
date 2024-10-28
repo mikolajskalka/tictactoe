@@ -28,4 +28,4 @@ A command-line implementation of the classic Tic-tac-toe game created for the Sc
 
 ## Requirements
 
-- Bash shell
+- Bash (3.0+) shell
