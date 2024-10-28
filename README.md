@@ -29,4 +29,3 @@ A command-line implementation of the classic Tic-tac-toe game created for the Sc
 ## Requirements
 
 - Bash shell
-- Unix-like operating system
